@@ -1,0 +1,21 @@
+{
+  "name": "datasecuritystorage",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^28.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-28.0.0.tar.gz",
+    "apollo-cache-inmemory": "1.2.5",
+    "apollo-client": "^2.2.3",
+    "apollo-link-http": "1.5.4",
+    "graphql": "^0.13.0",
+    "native-base": "2.7.2",
+    "react-apollo": "2.1.9",
+    "react-native-elements": "0.19.1",
+    "react-navigation": "2.8.0"
+  }
+}
